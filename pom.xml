@@ -80,8 +80,8 @@
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <!--驱动版本号一定要装正确 否则连不上 mysql 5.1.46 可以适用本机-->
-      <version>5.1.46</version>
+      <!--驱动版本号一定要装正确 否则连不上 mysql 8.0.28 可以适用本机-->
+      <version>8.0.28</version>
     </dependency>
 
     <!--添加Mybatis依赖-->
